@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="sp_name">My ToDo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-enter Password</string>
+    <string name="login_image">login image</string>
+    <string name="not_registered">Not Registered Yet?</string>
+    <string name="signup">Signup</string>
+    <string name="already_registered">Already Registered!!</string>
+    <string name="type_your_task">Type your task</string>
+    <string name="add_btn">Add</string>
+    <string name="close_button">close button</string>
+    <string name="task_1">task 1</string>
+    <string name="edit_button">edit button</string>
+    <string name="delete_button">delete button</string>
+</resources>
